@@ -12,7 +12,7 @@ class About extends Component{
                                 I can remember because of the great passion that drawing means to me. I have a large experience with traditional techniques	
                                 and I recently started learn digital media to be able to do animation since it is something that interests me a 	
                                 lot because of the wide possibilities it offers and cause I´m a big fan of cartoon series.</p>	
-                            <p>I consider myself as a very creative person with wide interests, I love art chemistry, history, philosophy, animals, anatomy, and trying	
+                            <p>I consider myself as a creative person with wide interests, I love art chemistry, history, philosophy, animals, anatomy, and trying	
                                 new ways to draw. 	
                      </p>	
 
@@ -20,9 +20,9 @@ class About extends Component{
                     <li className="small">	
                     <p> I would love to collaborate with a company that appreciates creative work as well as visual and audiovisual content.</p>	
                         <p>I have a background as Profesional Restorer and Conservator, I´ve worked during 7 years as technical, researcher and work resident 	
-                            restorer in different places of Mexico. I got specialized in paper conservation.</p>	
+                            restorer in different places of Mexico and I got specialized in paper conservation.</p>	
                             <p>At the same time that I worked as a restorer I always looked for engraving, I am a 3-time winning Madonnari artist and I have also participated 	
-                                in several painting competitions. Recently I started looking for spaces to exhibit my work and thus reach more people</p>	
+                                in several painting competitions.</p>	
 
                     </li>	
                 <li className="small">	

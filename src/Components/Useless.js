@@ -13,7 +13,7 @@ class Useless extends Component{
                 <ul>	
                     <li className="col">	
                         <h2>Academic training</h2>	
-                        <p>Laboratoria Guadalajara.Intensive self-learning coding bootcamp for women to become part of IT workforce as Front-end developers.	
+                        <p>Laboratoria Guadalajara. Intensive self-learning coding bootcamp with a Front-end developer profile and soft skills perspective.	
                         May 2019 - Dic 2019</p>	
                         <p>Western Conservation and Restoration School, (ECRO) Guadalajara Jalisco. Bachelor´s degree in restoration of cultural	
                              heritage generation 2010 - 2015</p>	
@@ -25,12 +25,14 @@ class Useless extends Component{
                         <p>English B2 level according to the Common European Framework of Reference for Languages (CEFR)</p>	
                     </li>	
                     <li className="col">	
-                        <h3>Complementary wokshops</h3>	
+                        <h2>Complementary wokshops</h2>	
+                        <p>iOS design Workshop taught by Néstor Martínez Ostoa from APL Community. UI UX design workshop focused on iOS apps design.</p>
+                        <p>Masterclass: The art of building successful videogames. Taught by Mihai Sfrijan, Head of Studio in Amber Studio.</p>
                         <p>Workshop: How to make a comic in 4 strips or 5739 pages with the same pencil? Taught by La patografica editorial on FIL Gdl.	
-                            Storyboards and storytelling in a small comic, how to give space and time ilusion, .	
+                            Storyboards and storytelling in a small comic, how to give space and time ilusion.	
                         </p>	
-                        <p>Engraving workshop at Yuriria´s house of culture. Linoleum, drypoint, woodcut, and printing techniques. 2017 Guanajuato</p>	
-                        <p>Engraving and silkscreen workshop Ludoteca DIF Zapopan 2016 to 2017 </p>	
+                        <p>Engraving workshop at Yuriria´s house of culture. Linoleum, drypoint, woodcut, and printing techniques.</p>	
+                        <p>Engraving and silkscreen workshop Ludoteca DIF Zapopan. </p>	
 
                     </li>	
                 </ul>	

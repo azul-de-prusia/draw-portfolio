@@ -87,6 +87,13 @@ nav ul li a{
   border: transparent;	
   font-size: 21px;	
 }	
+
+#list{
+  display: inline-block;
+  margin-right: 8px;
+  width: 200px;
+  height: 200px;
+}
 .text{	
   font-size: 17px;	
 }	
@@ -108,6 +115,7 @@ nav ul li a{
 .About, .linkscontainer, .contact, .skills, .useless, .home{	
   color: rgb(131, 160, 160);	
   text-align: center;	
+
 }	
 .tex{	
   margin-left: 20px;	
@@ -119,7 +127,19 @@ nav ul li a{
 .home ul li , .contact ul li{	
   display: inline-block;	
 }	
-
+#link{
+  font-family: Roboto;
+    color: rgb(131, 160, 160);
+    font-size: medium;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-color: #2c2c2c;
+    border-radius: 3px;
+}
+footer{
+  color: #656363;
+  float: bottom;
+  padding-top: 10% ;
+}
 .href{	
   color: rgb(131, 160, 160);	
 }	
@@ -134,7 +154,34 @@ nav ul li a{
 
 .useless{	
   text-align: center;	
+  
 }	
+.backbtn{
+  float: right;
+  margin-top: -3%;
+  margin-right: 8%;
+  background-image:url(https://i.ibb.co/vhxrxjW/images.png);
+   border-radius: 70px; 
+   border: 0px;
+   background-color: black;
+   height: 50px;
+   width: 50px;
+   padding: 0px;
+   color: #000000;
+}
+#header{
+  font-family: Roboto;
+  color: rgb(131, 160, 160);
+  font-size: 120%;
+  text-align: center;
+  font-weight: normal;
+  margin-top: 3%;
+  margin-bottom: 0%;
+}
+.ulhome{
+  margin-top: 7%;
+}	
+
 #flip-container{	
   -webkit-perspective: 1000;	
   perspective: 1000;	
@@ -152,9 +199,21 @@ nav ul li a{
   transform-origin: 100% 50%;	
   margin: 5px;	
 }	
+.cardx {
+  position: relative;	
+  height: 300px; 
+  width: 450px;
+  transition: 1s;	
+  transform-style: preserve-3d;	
+  transform-origin: 100% 50%;	
+  margin: 5px;
+}
 .card:hover, .card.flip{	
   transform: rotateX(180deg);	
 }	
+.cardx:hover, .cardx.flip{
+  transform: rotateX(180deg);	
+}
 .front, .back{	
   position: absolute;	
   width: 100%;	
@@ -162,7 +221,6 @@ nav ul li a{
   -webkit-backface-visibility: hidden;	
   backface-visibility: hidden;	
   text-align: center;	
-
 }	
 .front{	
   transform: rotateX(0deg);	
@@ -173,13 +231,27 @@ nav ul li a{
   display: flex;	
   align-items: center;	
   justify-content: center;	
-
 }	
+
+.back2{	
+    position: absolute;	
+    height: 300px;		
+    width: 600px;
+    -webkit-backface-visibility: hidden;	
+    backface-visibility: hidden;	
+    text-align: center;	
+    transform: rotateX(180deg);	
+    background-color:  rgba(42, 42, 42, 0.5);	
+    color: #656363;	
+}
 .back{	
   transform: rotateX(180deg);	
   background-color:  rgba(42, 42, 42, 0.5);	
   color: #656363;	
 
+}
+.flip-container h1{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }	
 .flip-container ul{	
   list-style: none;	
@@ -191,12 +263,22 @@ nav ul li a{
   width:300px;	
   height: 300px;	
 }	
+.card1w{
+  display: inline-block;	
+  margin-right: 8px;	
+	
+  height: 300px;	
+}
 #img{	
   height: 300px;	
 }	
 #imgw{	
   width: 300px;	
 }	
+#imgw2{
+  height: 300px; 
+  width: auto;
+}
 #imgx{	
   width: 600px;	
 }	
@@ -219,19 +301,7 @@ nav ul li a{
     margin-left: 55px;	
   margin-right: 55px;	
 }	
- .skills ul li{	
-  display: inline-block;	
-  margin-right: 3%;	
-  margin-left: 0%;	
-  width:20%;	
-  height: 30%;	
-  text-align: justify;	
-  font-size: 18px;	
-  vertical-align: top;	
-  color: #000;	
-  font-weight: bold;	
-  background-color: rgb(128, 128, 128, 0.5);	
-}	
+
 .soft{	
   color: rgb(131, 160, 160);	
 }	
@@ -290,6 +360,10 @@ nav ul li a{
 .iconw{	
 width: 50px;	
 }	
+.link{
+  color: #FFF;
+  background-color: black;
+}
 
 
 @media (max-width: 496px) and (max-height: 736px) {	
