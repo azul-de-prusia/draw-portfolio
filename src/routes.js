@@ -4,7 +4,6 @@ import Header from './Components/header';
 import Home from './Components/Home';	
 import About from './Components/About';	
 import Contact from './Components/Contact';	
-
 import Useless from './Components/Useless';	
 import Skills from './Components/Skills';	
 import Digital from './Components/Digital';

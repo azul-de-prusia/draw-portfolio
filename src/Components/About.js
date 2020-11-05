@@ -21,8 +21,8 @@ class About extends Component{
                     <p> I would love to collaborate with a company that appreciates creative work as well as visual and audiovisual content.</p>	
                         <p>I have a background as Profesional Restorer and Conservator, I´ve worked during 7 years as technical, researcher and work resident 	
                             restorer in different places of Mexico and I got specialized in paper conservation.</p>	
-                            <p>At the same time that I worked as a restorer I always looked for engraving, I am a 3-time winning Madonnari artist and I have also participated 	
-                                in several painting competitions.</p>	
+                            <p>Since 2019 I enter into the digital media first as front-end developer and now as UI / UX designer looking 
+                                for new ways to implement design and illustration in usefull products, I've also attempted my first videogames this year in game jams.</p>	
 
                     </li>	
                 <li className="small">	
