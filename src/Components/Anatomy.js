@@ -30,10 +30,10 @@ class Anatomy extends Component{
                         </li>
                         <li className="card">	
                             <div id="card1" class="card">	
-                                <div class="front"><img src="https://i.ibb.co/xFNKfxW/bbw7WECA.jpg" alt="" id="img"></img></div>	
+                                <div class="front"><img src="https://i.ibb.co/brrzGGR/IMG-20201110-214507-302.jpg" alt="" id="img"></img></div>	
                                     <div class="back">	
-                                        <h1>Saturn devouring his children</h1>	
-                                    <p>Pencil draw inspired on a butoh dance performance by Daisuke Yoshimoto</p>	
+                                        <h1>Charcoal studio</h1>	
+                                    <p>Charcoal draw inspired on a butoh dance performance by Atsushi Takenouchi, Jinen butoh</p>	
                                  </div>	
                             </div>	
                         </li>
@@ -123,6 +123,15 @@ class Anatomy extends Component{
                                     <div class="back">	
                                         <h1>Goat</h1>	
                                     <p>Two plate linocut print</p>	
+                                 </div>	
+                            </div>	
+                        </li>
+                        <li className="card">	
+                            <div id="card1" class="card">	
+                                <div class="front"><img src="https://i.ibb.co/xFNKfxW/bbw7WECA.jpg" alt="" id="img"></img></div>	
+                                    <div class="back">	
+                                        <h1>Saturn devouring his children</h1>	
+                                    <p>Pencil draw inspired on a butoh dance performance by Daisuke Yoshimoto</p>	
                                  </div>	
                             </div>	
                         </li>

@@ -11,6 +11,7 @@ import Ink from './Components/Ink';
 import Engraving from './Components/Engraving';
 import Watercolor from './Components/Watercolor';
 import Anatomy from './Components/Anatomy';
+import Lycaon from './Components/Lycaon';
 
 
 const Routes = () => (	
@@ -29,6 +30,8 @@ const Routes = () => (
       <Route path="/Engraving" component ={Engraving}/>
       <Route path="/Watercolor" component ={Watercolor}/>
       <Route path="/Anatomy" component ={Anatomy}/>
+      <Route path="/Lycaon" component = {Lycaon}/>
+
     </Switch>	
 
       )	

@@ -23,7 +23,7 @@ class Digital extends Component{
                      </div>	
                     <div class="back">	
                         <h2>Flesh & bone</h2>	
-                        <p>Digital animation, video </p>	
+                        <p>Digital animation frame by frame </p>	
                     </div>
                  </li>
                  <li className="card">	
@@ -46,31 +46,23 @@ class Digital extends Component{
                         </li>
                 <li className="card">	
                     <div id="card1" class="card">	
-                        <div class="front"><img src="https://i.ibb.co/d6JPtBp/perr-2.jpg" alt="" id="img"></img></div>	
-                            <div class="back">	
-                                <h2>Doge adoption</h2>	
-                            <p>Digital drawing, 4 strip comic for the first time I adopted a dog</p>	
-                        </div>	
-                    </div>	
-                </li>
-                <li className="card">	
-                    <div id="card1" class="card">	
                         <div class="front"><img src="https://i.ibb.co/bWGWPCh/ezgif-com-crop.gif" id="imgw"alt=""></img></div>	
                             <div class="back">	
                                 <h1>Beggining of Moth</h1>	
-                            <p>Digital drawing, animation </p>	
+                            <p>Digital animation frame by frame</p>	
                          </div>	
                      </div>	
                  </li> 
+               
                 <li className="card">	
                     <div id="card1" class="card">	
-                        <div class="front"><img src="https://i.ibb.co/hMDsTMG/17.jpg" alt="" id="img"></img></div>	
+                        <div class="front"><img src="https://i.ibb.co/RH2Yq3Y/ezgif-com-gif-maker.gif" alt="" id="img"></img></div>	
                             <div class="back">	
-                                <h1>White t-shirt poison</h1>	
-                            <p>Digital drawing for a t-shirt design</p>	
+                                <h1>Ikigai </h1>	
+                            <p>Concept art for Ikigai characters </p>	
                             </div>	
                     </div>	
-                </li>	
+                </li>
                 <li className="card">	
                     <div class="front">	
                         <ReactPlayer	
@@ -87,12 +79,13 @@ class Digital extends Component{
                         <p>Digital illustration for Ikigai videogame, made within a week on Women in Gamex Jam. Concept art, character creation, scenario and assets illustrations</p>	
                     </div>
                  </li>
+              
                 <li className="card">	
                     <div id="card1" class="card">	
-                        <div class="front"><img src="https://i.ibb.co/j8c5mZK/sacred-geometrydone.jpg" alt="" id="img"></img></div>	
+                        <div class="front"><img src="https://i.ibb.co/GQr3tv6/perroso-Final.jpg" alt="" id="img"></img></div>	
                             <div class="back">	
-                                <h1>Impossible geometry</h1>	
-                            <p>Digital drawing inspired by M.C. Escher works</p>	
+                                <h1>Bearzilla </h1>	
+                            <p>Concept art for a giant monster </p>	
                             </div>	
                     </div>	
                 </li>
@@ -107,22 +100,53 @@ class Digital extends Component{
                 </li>
                 <li className="card">	
                     <div id="card1" class="card">	
-                        <div class="front"><img src="https://i.ibb.co/GQr3tv6/perroso-Final.jpg" alt="" id="img"></img></div>	
+                        <div class="front"><img src="https://i.ibb.co/j8c5mZK/sacred-geometrydone.jpg" alt="" id="img"></img></div>	
                             <div class="back">	
-                                <h1>Bearzilla </h1>	
-                            <p>Concept art for a giant monster </p>	
+                                <h1>Impossible geometry</h1>	
+                            <p>Digital drawing inspired by M.C. Escher works</p>	
+                            </div>	
+                    </div>	
+                </li>
+              
+                <li className="card">	
+                    <div id="card1" class="card">	
+                        <div class="front"><img src="https://i.ibb.co/F5fpdND/ezgif-com-gif-maker-3.gif" alt="" id="imgw"></img></div>	
+                            <div class="back">	
+                                <h1>La reconstrucción </h1>	
+                            <p>Videogame for game lab jam, I did all illustrations; characters, backgrounds, animations and assets. 
+This video game won an honorable mention for the theme of Memory and Conflict.</p>	
                             </div>	
                     </div>	
                 </li>
                 <li className="card">	
                     <div id="card1" class="card">	
-                        <div class="front"><img src="https://i.ibb.co/RH2Yq3Y/ezgif-com-gif-maker.gif" alt="" id="img"></img></div>	
+                        <div class="front"><img src="https://i.ibb.co/GvsJ8RC/ezgif-com-gif-maker-4.gif" alt="" id="imgw"></img></div>	
                             <div class="back">	
-                                <h1>Ikigai </h1>	
-                            <p>Concept art for Ikigai characters </p>	
+                                <h1>La reconstrucción </h1>	
+                            <p>Videogame for game lab jam, I did all illustrations; characters, backgrounds, animations and assets.
+This video game won an honorable mention for the theme of Memory and Conflict.</p>	
                             </div>	
                     </div>	
                 </li>
+                <li className="card">	
+                    <div id="card1" class="card">	
+                        <div class="front"><img src="https://i.ibb.co/WfQDJHh/ezgif-com-gif-maker-5.gif" alt="" id="imgw"></img></div>	
+                            <div class="back">	
+                                <h1>La reconstrucción </h1>	
+                            <p>Videogame for game lab jam, I did all illustrations; characters, backgrounds, animations and assets.
+This video game won an honorable mention for the theme of Memory and Conflict.</p>	
+                            </div>	
+                    </div>	
+                </li>
+                <li className="card">	
+                    <div id="card1" class="card">	
+                        <div class="front"><img src="https://i.ibb.co/hMDsTMG/17.jpg" alt="" id="img"></img></div>	
+                            <div class="back">	
+                                <h1>White t-shirt poison</h1>	
+                            <p>Digital drawing for a t-shirt design</p>	
+                            </div>	
+                    </div>	
+                </li>	
             </ul>
             </div>	
 
