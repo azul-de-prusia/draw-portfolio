@@ -72,6 +72,8 @@ class Digital extends Component{
                         width='300px'	
                         height='300px'	
                             loop='true'	
+                            volume='0'
+                            muted='true'
                         />	
                      </div>	
                     <div class="back">	
