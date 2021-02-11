@@ -10,6 +10,42 @@ class Digital extends Component{
                 <h1 id="header">Digital art</h1>
                 <li><Link to="/Home" title="Back to main"><button className="backbtn"><img src="https://i.ibb.co/dkszjYT/boton.png" height="50px" width="50px" alt="x" /></button></Link></li>
             <ul>
+            <li className="card">	
+                    <div id="card1" class="card">	
+                        <div class="front"><img src="https://i.ibb.co/hMDsTMG/17.jpg" alt="" id="img"></img></div>	
+                            <div class="back">	
+                                <h1>White t-shirt poison</h1>	
+                            <p>Digital drawing for a t-shirt design</p>	
+                            </div>	
+                    </div>	
+                </li>
+                <li className="card">	
+                    <div id="card1" class="card">	
+                        <div class="front"><img src="https://i.ibb.co/XFYpKSm/walking.png" alt="" id="imgw"></img></div>	
+                            <div class="back">	
+                                <h1>Lost & found walk cycle</h1>	
+                            <p>Frames to animate a walk cycle of the main character for the videogame Lost and found.</p>	
+                            </div>	
+                    </div>	
+                </li>
+                <li className="card">	
+                    <div id="card1" class="card">	
+                        <div class="front"><img src="https://i.ibb.co/vvCL5np/assetslost.png" alt="" id="img"></img></div>	
+                            <div class="back">	
+                                <h1>Lost & found videogame assets</h1>	
+                            <p>Some assets and buttons for the videogame Lost and found.</p>	
+                            </div>	
+                    </div>	
+                </li>
+                <li className="card">	
+                    <div id="card1" class="card">	
+                        <div class="front"><img src="https://i.ibb.co/bWGWPCh/ezgif-com-crop.gif" id="imgw"alt=""></img></div>	
+                            <div class="back">	
+                                <h1>Beggining of Moth</h1>	
+                            <p>Digital animation frame by frame</p>	
+                         </div>	
+                     </div>	
+                 </li> 	
                 <li className="card">	
                     <div class="front">	
                         <ReactPlayer	
@@ -44,15 +80,7 @@ class Digital extends Component{
                                 </div>	
                             </div>	
                         </li>
-                <li className="card">	
-                    <div id="card1" class="card">	
-                        <div class="front"><img src="https://i.ibb.co/bWGWPCh/ezgif-com-crop.gif" id="imgw"alt=""></img></div>	
-                            <div class="back">	
-                                <h1>Beggining of Moth</h1>	
-                            <p>Digital animation frame by frame</p>	
-                         </div>	
-                     </div>	
-                 </li> 
+             
                
                 <li className="card">	
                     <div id="card1" class="card">	
@@ -140,15 +168,7 @@ This video game won an honorable mention for the theme of Memory and Conflict.</
                             </div>	
                     </div>	
                 </li>
-                <li className="card">	
-                    <div id="card1" class="card">	
-                        <div class="front"><img src="https://i.ibb.co/hMDsTMG/17.jpg" alt="" id="img"></img></div>	
-                            <div class="back">	
-                                <h1>White t-shirt poison</h1>	
-                            <p>Digital drawing for a t-shirt design</p>	
-                            </div>	
-                    </div>	
-                </li>	
+                	
             </ul>
             </div>	
 
