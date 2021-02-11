@@ -176,5 +176,5 @@ This video game won an honorable mention for the theme of Memory and Conflict.</
 
     }	
 };	
-
+ 
 export default Digital;
